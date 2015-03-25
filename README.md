@@ -1,0 +1,2 @@
+# sush
+My first repository
